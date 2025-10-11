@@ -6,16 +6,7 @@
 
 ---
 
-## 🚀 About KAPLOWIE
-KAPLOWIE is a **next-level C++ project** designed for speed, precision, and power.  
-Built with **Windows support** in mind and styled to dominate dark-mode aesthetics.  
-
----
-
-## ⚡ Features
-- 🔥 High-performance C++ code  
-- 🖤 Black & Red theme for maximum impact  
-- 💻 Windows optimized  
-- 💬 Community-ready — join our Discord  
+Im learning c++ and trying to teach other people 
+some of the stuff i've learned so far
 
 ---
