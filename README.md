@@ -7,7 +7,3 @@
 ![PLATFORM](https://img.shields.io/badge/PLATFORM-WINDOWS-FF0000?style=for-the-badge&color=000000&logo=windows&logoColor=FF0000)
 
 ---
-
-##Im wanting to make beneficial things for people 
-
----
